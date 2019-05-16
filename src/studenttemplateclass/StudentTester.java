@@ -16,7 +16,7 @@ public class StudentTester {
          StudentTemplateClass s2 = new StudentTemplateClass("Nabeel kdhkl");
         //s2.setName("Nabeel");
           StudentTemplateClass s3 = new StudentTemplateClass();
-          s3.setName("saima ddm,dmg,sd");
+          s3.setName("saima ddm,dmg,sdxhf");
           StudentTemplateClass[] list = new StudentTemplateClass[3];//array of objects
           list[0]= s1;
           list[1]=s2;
