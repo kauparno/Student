@@ -10,7 +10,7 @@ public class StudentTester {
     
     public static void main(String args[])
     {
-        StudentTemplateClass s1 = new StudentTemplateClass("noor");
+        StudentTemplateClass s1 = new StudentTemplateClass("noorxlbxcbcvd");
         //s1.setName("noor");
         //System.out.print(s1.getName());
          StudentTemplateClass s2 = new StudentTemplateClass("Nabeel kdhkl");
