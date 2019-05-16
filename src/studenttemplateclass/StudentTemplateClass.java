@@ -13,15 +13,17 @@ public class StudentTemplateClass {
     
     //data/fields
     private String name;
+    private int sid;
     //constructor
     public StudentTemplateClass()
     {
         
         
     }
-    public StudentTemplateClass(String n)
+    public StudentTemplateClass(String n,int s)
     {
       this.name= n;  
+      this.sid= s;
     }
 
     /**
@@ -36,6 +38,20 @@ public class StudentTemplateClass {
      */
     public void setName(String name) {
         this.name = name;
+    }
+
+    /**
+     * @return the sid
+     */
+    public int getSid() {
+        return sid;
+    }
+
+    /**
+     * @param sid the sid to set
+     */
+    public void setSid(int sid) {
+        this.sid = sid;
     }
 
     
