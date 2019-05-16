@@ -13,7 +13,7 @@ public class StudentTester {
         StudentTemplateClass s1 = new StudentTemplateClass("noor");
         //s1.setName("noor");
         //System.out.print(s1.getName());
-         StudentTemplateClass s2 = new StudentTemplateClass("Nabeel");
+         StudentTemplateClass s2 = new StudentTemplateClass("Nabeel kdhkl");
         //s2.setName("Nabeel");
           StudentTemplateClass s3 = new StudentTemplateClass();
           s3.setName("saima");
