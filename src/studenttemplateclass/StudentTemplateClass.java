@@ -14,6 +14,7 @@ public class StudentTemplateClass {
     //data/fields
     private String name;
     private int sid;
+    private int Maxcourse;
     //constructor
     public StudentTemplateClass()
     {
@@ -52,6 +53,20 @@ public class StudentTemplateClass {
      */
     public void setSid(int sid) {
         this.sid = sid;
+    }
+
+    /**
+     * @return the Maxcourse
+     */
+    public int getMaxcourse() {
+        return Maxcourse;
+    }
+
+    /**
+     * @param Maxcourse the Maxcourse to set
+     */
+    public void setMaxcourse(int Maxcourse) {
+        this.Maxcourse = Maxcourse;
     }
 
     
